@@ -1,5 +1,5 @@
 myApp:
   properties:
-    hello: "hello from customer-service.yml"
+    hello: "hello from customer-service-1xyz-sr-jeksopra.yml"
 security.basic.enable: false   
 management.security.enabled: false
